@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#header {
+    height: 100px;
+    background-color: rgb(59, 220, 59);
+    color: white;
+    font-size: 30px;
+    align-content: center;
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    word-spacing: 4px;
+}
+#navbar {
+    height: 30px;
+    background-color: black;
+    text-align: center;
+    align-content: center;
+    word-spacing: 20px;
+    a { 
+        text-decoration: none;
+        color: rgb(226, 151, 132);
+        font-weight: 600;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+}
+#intro {
+    ul {
+        margin-left: 20px;
+    }
+    a {
+        text-decoration: none;
+    }
+}
+#css {
+    #cs {
+        img {
+            height: 200px;
+            width: 400px;
+            object-fit: cover;
+            margin-left: 10px;
+        }
+    }
+}
+#Footer {
+    height: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+#pre {
+    margin: 20px;
+    height: 180px;
+    background-color: rgb(192, 189, 189);
+}
+#pre1 {
+    margin: 20px;
+    height: 100px;
+    background-color: rgb(192, 189, 189);
+}
+#p {
+    margin-left: 10px;
+    text-align: center;
+    height: 180px;
+    width: 1500px;
+    color: white;
+    background-image: url(images/night.png);
+}
+#table {
+    margin-left: 10px;
+    display: block;
+    th {
+        text-align: left;
+    }
+}
